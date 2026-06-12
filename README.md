@@ -15,7 +15,7 @@ Sharing-deck-generator-github/
 
 ## Skill 说明
 
-- **Skill 名称**：Sharing Deck Generator（述职答辩材料生成器）
+- **Skill 名称**：Sharing Deck Generator（产品经理分享材料生成器）
 - **目录位置**：`skills/Sharing-deck-generator/SKILL.md`
 - **核心能力**：
   - 自动理解项目背景、旧文档、数据截图、工作总结等素材
